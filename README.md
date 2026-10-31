@@ -7,8 +7,7 @@ My Java problem-solving practice — from Java basics to Data Structures & Algor
 | Folder | Contents |
 | --- | --- |
 | `Java Basics` | Core Java practice — loops, star patterns, and fundamentals |
-
-More topics will be added as I learn them — arrays, recursion, sorting, linked lists, and beyond.
+| `DSA Advanced` | LeetCode problem solutions — data structures & algorithms practice |
 
 ## Language
 
