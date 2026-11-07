@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Java compiled output
+*.class
