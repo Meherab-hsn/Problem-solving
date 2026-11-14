@@ -1,5 +1,5 @@
 
-// Q2: Rotated half pyramid (right-aligned, shortest row on top)
+// Rotated half pyramid (right-aligned, shortest row on top)
 
 // Output:
 //     *
